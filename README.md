@@ -11,10 +11,10 @@ This plugin should work with any modern plugin managers for Vim, such as
 [NeoBundle][3], [Pathogen][2], [Vim-Addon-Manager][5], [Vim-Plug][6], or
 [Vundle][1].
 
-`
+```
 cd ~/.vim/bundle
 git clone https://github.com/zzeroo/vala.git
-`
+```
 
 ## Resources
 
