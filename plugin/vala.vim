@@ -13,3 +13,13 @@ let vala_no_tab_space_error = 1
 
 " Minimum lines used for comment syncing (default 50)
 "let vala_minlines = 120
+"
+setlocal tabstop=4
+setlocal shiftwidth=4
+" "setlocal autoindent
+setlocal expandtab
+
+if has("autocmd")
+  filetype plugin indent on
+endif
+
