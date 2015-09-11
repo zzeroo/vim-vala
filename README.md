@@ -13,7 +13,7 @@ This plugin should work with any modern plugin managers for Vim, such as
 
 ```
 cd ~/.vim/bundle
-git clone https://github.com/zzeroo/vala.git
+git clone https://github.com/zzeroo/vim-vala.git
 ```
 
 ## Resources
